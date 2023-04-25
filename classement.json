@@ -1,1 +1,52 @@
-
+[
+ {
+  "name": "Joblife",
+  "country": "France",
+  "ratio": "7-1"
+ },
+ {
+  "name": "Gentle Mates",
+  "country": "France",
+  "ratio": "6-2"
+ },
+ {
+  "name": "VALIANT",
+  "country": "France",
+  "ratio": "5-3"
+ },
+ {
+  "name": "Mandatory",
+  "country": "France",
+  "ratio": "5-3"
+ },
+ {
+  "name": "Solary",
+  "country": "France",
+  "ratio": "5-3"
+ },
+ {
+  "name": "WYLDE",
+  "country": "Netherlands",
+  "ratio": "4-4"
+ },
+ {
+  "name": "Zerance",
+  "country": "France",
+  "ratio": "3-5"
+ },
+ {
+  "name": "BLX UTD",
+  "country": "Europe",
+  "ratio": "2-6"
+ },
+ {
+  "name": "Akroma",
+  "country": "France",
+  "ratio": "2-6"
+ },
+ {
+  "name": "3DMAX",
+  "country": "France",
+  "ratio": "1-7"
+ }
+]
