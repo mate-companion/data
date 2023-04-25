@@ -1,1 +1,70 @@
-
+{
+    "matches": [
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["3DMax", "3D"],
+            "date": ["19/04/2023", "21H00"],
+            "result" : [13,6]
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["JobLife", "JL"],
+            "date": ["22/04/2023", "21H00"],
+            "result" : [9,13]
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["Mandatory", "MDR"],
+            "date": ["23/04/2023", "19H00"],
+            "result" : [13,11]
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["WYLDE", "WYL"],
+            "date": ["29/04/2023", "19H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["Zerance", "ZER"],
+            "date": ["30/04/2023", "21H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["Akroma", "AKR"],
+            "date": ["06/05/2023", "20H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["BLX UTD", "BLX"],
+            "date": ["07/05/2023", "22H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["VALIANT", "VLNT"],
+            "date": ["08/05/2023", "19H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["JobLife", "JL"],
+            "date": ["13/05/2023", "21H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["3DMax", "3D"],
+            "date": ["14/05/2023", "18H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["Solary", "SLY"],
+            "date": ["15/05/2023", "18H00"],
+            "result" : []
+        }
+    ]
+}
