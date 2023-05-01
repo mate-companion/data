@@ -1,55 +1,55 @@
 {
  "rankedTeams": [
   {
-   "name": "Joblife",
-   "country": "France",
-   "ratio": "7-2"
-  },
-  {
    "name": "Gentle Mates",
    "country": "France",
-   "ratio": "6-3"
-  },
-  {
-   "name": "VALIANT",
-   "country": "France",
-   "ratio": "6-3"
+   "ratio": "7-3"
   },
   {
    "name": "Mandatory",
    "country": "France",
-   "ratio": "6-3"
+   "ratio": "7-3"
   },
   {
-   "name": "Solary",
+   "name": "Joblife",
    "country": "France",
-   "ratio": "5-4"
+   "ratio": "7-3"
+  },
+  {
+   "name": "VALIANT",
+   "country": "France",
+   "ratio": "6-4"
   },
   {
    "name": "WYLDE",
    "country": "Netherlands",
-   "ratio": "5-4"
+   "ratio": "6-4"
+  },
+  {
+   "name": "Solary",
+   "country": "France",
+   "ratio": "6-4"
   },
   {
    "name": "Zerance",
    "country": "France",
-   "ratio": "4-5"
-  },
-  {
-   "name": "3DMAX",
-   "country": "France",
-   "ratio": "2-7"
+   "ratio": "4-6"
   },
   {
    "name": "BLX UTD",
    "country": "Europe",
-   "ratio": "2-7"
+   "ratio": "3-7"
+  },
+  {
+   "name": "3DMAX",
+   "country": "France",
+   "ratio": "2-8"
   },
   {
    "name": "Akroma",
    "country": "France",
-   "ratio": "2-7"
+   "ratio": "2-8"
   }
  ],
- "updateTime": "30/04/23 - 08h30"
+ "updateTime": "01/05/23 - 08h30"
 }
