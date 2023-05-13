@@ -52,7 +52,7 @@
             "team1": ["Gentle Mates", "M8"],
             "team2": ["JobLife", "JL"],
             "date": ["13/05/2023", "21H00"],
-            "result" : []
+            "result" : [12,14]
         },
         {
             "team1": ["Gentle Mates", "M8"],
