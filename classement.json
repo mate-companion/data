@@ -3,53 +3,53 @@
   {
    "name": "Gentle Mates",
    "country": "France",
-   "ratio": "10-4"
-  },
-  {
-   "name": "Mandatory",
-   "country": "France",
-   "ratio": "10-4"
-  },
-  {
-   "name": "WYLDE",
-   "country": "Netherlands",
-   "ratio": "9-5"
+   "ratio": "11-4"
   },
   {
    "name": "Joblife",
    "country": "France",
-   "ratio": "9-5"
+   "ratio": "10-5"
+  },
+  {
+   "name": "WYLDE",
+   "country": "Netherlands",
+   "ratio": "10-5"
+  },
+  {
+   "name": "Mandatory",
+   "country": "France",
+   "ratio": "10-5"
   },
   {
    "name": "VALIANT",
    "country": "France",
-   "ratio": "8-6"
-  },
-  {
-   "name": "Solary",
-   "country": "France",
-   "ratio": "7-7"
+   "ratio": "8-7"
   },
   {
    "name": "Zerance",
    "country": "France",
-   "ratio": "6-8"
+   "ratio": "7-8"
+  },
+  {
+   "name": "Solary",
+   "country": "France",
+   "ratio": "7-8"
   },
   {
    "name": "Akroma",
    "country": "France",
-   "ratio": "5-9"
-  },
-  {
-   "name": "3DMAX",
-   "country": "France",
-   "ratio": "3-11"
+   "ratio": "5-10"
   },
   {
    "name": "BLX UTD",
    "country": "Europe",
-   "ratio": "3-11"
+   "ratio": "4-11"
+  },
+  {
+   "name": "3DMAX",
+   "country": "France",
+   "ratio": "3-12"
   }
  ],
- "updateTime": "14/05/23 - 08h30"
+ "updateTime": "15/05/23 - 08h30"
 }
