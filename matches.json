@@ -80,8 +80,20 @@
         },
         {
             "team1": ["Gentle Mates", "M8"],
+            "team2": ["VALIANT", "VLNT"],
+            "date": ["24/07/2023", "19H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
             "team2": ["Wylde", "WYL"],
             "date": ["25/07/2023", "20H00"],
+            "result" : []
+        },
+        {
+            "team1": ["Gentle Mates", "M8"],
+            "team2": ["Solary", "SLY"],
+            "date": ["29/07/2023", "20H00"],
             "result" : []
         }
     ]
