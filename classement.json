@@ -6,19 +6,19 @@
    "ratio": "13-5"
   },
   {
-   "name": "WYLDE",
-   "country": "Netherlands",
-   "ratio": "12-6"
-  },
-  {
    "name": "Mandatory",
    "country": "France",
    "ratio": "12-6"
   },
   {
+   "name": "WYLDE",
+   "country": "Netherlands",
+   "ratio": "12-6"
+  },
+  {
    "name": "Joblife",
    "country": "France",
-   "ratio": "11-6"
+   "ratio": "12-6"
   },
   {
    "name": "VALIANT",
@@ -33,7 +33,7 @@
   {
    "name": "Solary",
    "country": "France",
-   "ratio": "8-9"
+   "ratio": "8-10"
   },
   {
    "name": "Akroma",
@@ -51,5 +51,5 @@
    "ratio": "4-14"
   }
  ],
- "updateTime": "22/05/23 - 22h04"
+ "updateTime": "23/05/23 - 08h30"
 }
