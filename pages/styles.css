@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "SF-Pro";
+    src: url("fonts/SF-Pro.ttf");
+    /* Autres propriétés de @font-face... */
+  }
+  
+  p {
+    font-family: "SF-Pro", sans-serif;
+    font-weight: normal;
+  }
+  
+  h1 {
+    font-family: "SF-Pro", sans-serif;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-family: "SF-Pro", sans-serif;
+    font-weight: normal;
+  }
+  
