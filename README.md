@@ -1,4 +1,4 @@
 # README
 
-Données affichées dans l'application
+Données affichées dans l'application  
 Pages d'informations pour la distribution
