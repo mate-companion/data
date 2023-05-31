@@ -2,30 +2,6 @@
     "matches": [
         {
             "team1": ["Gentle Mates", "M8"],
-            "team2": ["3DMax", "3D"],
-            "date": ["19/04/2023", "21H00"],
-            "result" : [13,6]
-        },
-        {
-            "team1": ["Gentle Mates", "M8"],
-            "team2": ["JobLife", "JL"],
-            "date": ["22/04/2023", "21H00"],
-            "result" : [9,13]
-        },
-        {
-            "team1": ["Gentle Mates", "M8"],
-            "team2": ["Mandatory", "MDR"],
-            "date": ["23/04/2023", "19H00"],
-            "result" : [13,11]
-        },
-        {
-            "team1": ["Gentle Mates", "M8"],
-            "team2": ["WYLDE", "WYL"],
-            "date": ["29/04/2023", "19H00"],
-            "result" : [14,16]
-        },
-        {
-            "team1": ["Gentle Mates", "M8"],
             "team2": ["Zerance", "ZER"],
             "date": ["30/04/2023", "21H00"],
             "result" : [13, 8]
