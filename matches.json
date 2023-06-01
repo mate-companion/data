@@ -52,12 +52,12 @@
             "team1": ["Gentle Mates", "M8"],
             "team2": ["Mandatory", "MDR"],
             "date": ["22/05/2023", "19H00"],
-            "result" : []
+            "result" : [4,13]
         },
         {
             "team1": ["Gentle Mates", "M8"],
             "team2": ["TBD", "TBD"],
-            "date": ["01/06/2023", "23H30"],
+            "date": ["08/06/2023", "17H00"],
             "result" : []
         }
     ]
