@@ -1,8 +1,20 @@
 {
     "events": [
         {
-        "title": "Test event #1",
-        "date": ["04/06/2023", "07/06/2023"]
-        }
+        "title": "Split 1 - Challengers",
+        "date": ["15/01/2023", "01/02/2023"]
+        },
+        {
+        "title": "Playoffs (S1) - Challengers",
+        "date": ["09/03/2023", "12/03/2023"]
+        },
+        {
+        "title": "Split 2 - Challengers",
+        "date": ["08/04/2023", "23/05/2023"]
+        },
+        {
+        "title": "Playoffs (S2) - Challengers",
+        "date": ["07/06/2023", "10/06/2023"]
+        },
     ]
 }
