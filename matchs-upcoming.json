@@ -1,3 +1,22 @@
 {
- "matches": []
+ "matches": [
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "date": [
+    "01/01/2022",
+    "17H00"
+   ],
+   "result": [
+    0,
+    0
+   ]
+  }
+ ]
 }
