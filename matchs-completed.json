@@ -6,6 +6,24 @@
     "M8"
    ],
    "team2": [
+    "Mandatory",
+    "MDR"
+   ],
+   "date": [
+    "10/06/2023",
+    "17H00"
+   ],
+   "result": [
+    3,
+    2
+   ]
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
     "WYLDE",
     "WYL"
    ],
@@ -160,24 +178,6 @@
    "result": [
     13,
     9
-   ]
-  },
-  {
-   "team1": [
-    "Gentle Mates",
-    "M8"
-   ],
-   "team2": [
-    "Zerance",
-    "ZER"
-   ],
-   "date": [
-    "30/04/2023",
-    "21H00"
-   ],
-   "result": [
-    13,
-    8
    ]
   }
  ]
