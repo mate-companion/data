@@ -6,17 +6,59 @@
     "M8"
    ],
    "team2": [
+    "Team Falcons",
+    "FLC"
+   ],
+   "date": [
+    "30/06/2023",
+    "20H00"
+   ],
+   "result": []
+  },
+  {
+   "team1": [
     "Gentle Mates",
     "M8"
    ],
+   "team2": [
+    "Case Esports",
+    "CASE"
+   ],
    "date": [
-    "01/01/2022",
+    "01/07/2023",
     "17H00"
    ],
-   "result": [
-    0,
-    0
-   ]
+   "result": []
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
+    "TBD",
+    "TBD"
+   ],
+   "date": [
+    "02/07/2023",
+    "17H00"
+   ],
+   "result": []
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
+    "Apeks",
+    "APK"
+   ],
+   "date": [
+    "03/07/2023",
+    "17H00"
+   ],
+   "result": []
   }
  ]
 }
