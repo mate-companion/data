@@ -6,6 +6,24 @@
     "M8"
    ],
    "team2": [
+    "Team Falcons",
+    "FLC"
+   ],
+   "date": [
+    "30/06/2023",
+    "19H20"
+   ],
+   "result": [
+    2,
+    0
+   ]
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
     "Mandatory",
     "MDR"
    ],
@@ -160,24 +178,6 @@
    "result": [
     13,
     11
-   ]
-  },
-  {
-   "team1": [
-    "Gentle Mates",
-    "M8"
-   ],
-   "team2": [
-    "Akroma",
-    "AKR"
-   ],
-   "date": [
-    "06/05/2023",
-    "20H00"
-   ],
-   "result": [
-    13,
-    9
    ]
   }
  ]
