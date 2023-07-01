@@ -6,12 +6,30 @@
     "M8"
    ],
    "team2": [
+    "Case Esports",
+    "CASE"
+   ],
+   "date": [
+    "01/07/2023",
+    "17H00"
+   ],
+   "result": [
+    2,
+    0
+   ]
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
     "Team Falcons",
     "FLC"
    ],
    "date": [
     "30/06/2023",
-    "19H20"
+    "19H15"
    ],
    "result": [
     2,
@@ -160,24 +178,6 @@
    "result": [
     13,
     10
-   ]
-  },
-  {
-   "team1": [
-    "Gentle Mates",
-    "M8"
-   ],
-   "team2": [
-    "BLX UTD",
-    "BLX"
-   ],
-   "date": [
-    "07/05/2023",
-    "22H45"
-   ],
-   "result": [
-    13,
-    11
    ]
   }
  ]
