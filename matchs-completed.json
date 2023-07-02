@@ -6,6 +6,24 @@
     "M8"
    ],
    "team2": [
+    "FOKUS",
+    "FKS"
+   ],
+   "date": [
+    "02/07/2023",
+    "17H00"
+   ],
+   "result": [
+    2,
+    1
+   ]
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
     "Case Esports",
     "CASE"
    ],
@@ -160,24 +178,6 @@
    "result": [
     12,
     14
-   ]
-  },
-  {
-   "team1": [
-    "Gentle Mates",
-    "M8"
-   ],
-   "team2": [
-    "VALIANT",
-    "VLNT"
-   ],
-   "date": [
-    "08/05/2023",
-    "19H15"
-   ],
-   "result": [
-    13,
-    10
    ]
   }
  ]
