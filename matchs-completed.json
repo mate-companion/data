@@ -6,6 +6,24 @@
     "M8"
    ],
    "team2": [
+    "Apeks",
+    "APK"
+   ],
+   "date": [
+    "03/07/2023",
+    "20H00"
+   ],
+   "result": [
+    0,
+    2
+   ]
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
     "FOKUS",
     "FKS"
    ],
@@ -160,24 +178,6 @@
    "result": [
     13,
     8
-   ]
-  },
-  {
-   "team1": [
-    "Gentle Mates",
-    "M8"
-   ],
-   "team2": [
-    "Joblife",
-    "JL"
-   ],
-   "date": [
-    "13/05/2023",
-    "21H35"
-   ],
-   "result": [
-    12,
-    14
    ]
   }
  ]
