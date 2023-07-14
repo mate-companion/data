@@ -6,6 +6,24 @@
     "M8"
    ],
    "team2": [
+    "SAW",
+    "SAW"
+   ],
+   "date": [
+    "14/07/2023",
+    "20H35"
+   ],
+   "result": [
+    2,
+    1
+   ]
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
     "Acend",
     "ACE"
    ],
@@ -160,24 +178,6 @@
    "result": [
     14,
     12
-   ]
-  },
-  {
-   "team1": [
-    "Gentle Mates",
-    "M8"
-   ],
-   "team2": [
-    "Solary",
-    "SLY"
-   ],
-   "date": [
-    "15/05/2023",
-    "18H00"
-   ],
-   "result": [
-    13,
-    5
    ]
   }
  ]
