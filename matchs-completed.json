@@ -6,6 +6,24 @@
     "M8"
    ],
    "team2": [
+    "Apeks",
+    "APK"
+   ],
+   "date": [
+    "16/07/2023",
+    "17H00"
+   ],
+   "result": [
+    3,
+    0
+   ]
+  },
+  {
+   "team1": [
+    "Gentle Mates",
+    "M8"
+   ],
+   "team2": [
     "Acend",
     "ACE"
    ],
@@ -160,24 +178,6 @@
    "result": [
     3,
     1
-   ]
-  },
-  {
-   "team1": [
-    "Gentle Mates",
-    "M8"
-   ],
-   "team2": [
-    "Mandatory",
-    "MDR"
-   ],
-   "date": [
-    "22/05/2023",
-    "19H15"
-   ],
-   "result": [
-    4,
-    13
    ]
   }
  ]
